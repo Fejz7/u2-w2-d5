@@ -1,0 +1,27 @@
+.img-fluid {
+    width: 200px;
+    height: 50px;
+}
+
+.icona {
+    width: 20px;
+    height: 20px;
+}
+
+body {
+    background-color: black;
+}
+
+.immagine {
+    width: 200px;
+    height: 150px;
+}
+
+.paragrafo {
+    color: white;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
